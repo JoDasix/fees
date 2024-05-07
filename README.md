@@ -1,5 +1,5 @@
-Ben ik weer hier op deze gezelige nacht in den oost noorden van de 
-met een fantastisch aroma van se wind 
+Ben ik weer hier op deze gezellige nacht in den oost noorden van de 
+met een fantastisch aroma van de wind 
 all once mooie gedachten 
 zal 
 vaandag
@@ -11,7 +11,7 @@ cu nos gran ser superior
 guianos
 den e caminda 
 pa e luz
-di verdad
+di berdad
 cu
 lo wordo skirbi
 e biaha aki 
