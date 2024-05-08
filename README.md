@@ -1,10 +1,4 @@
-Ben ik weer hier op deze gezellige nacht in den oost noorden van de 
-met een fantastisch aroma van de wind 
-all once mooie gedachten 
-zal 
-vaandag
-leiden centraal
-anto ora nos topa mas laat mi baby❤️❤️❤️❤️❤️
+
 mi kier a bisa bo cu mi ta deseabo lo mejor den cada seconde 
 di bo hermosa existencia 
 cu nos gran ser superior 
