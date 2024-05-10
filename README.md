@@ -1,18 +1,8 @@
+fees to invest with JohanGeerman 
+Johan holdings
 
-mi kier a bisa bo cu mi ta deseabo lo mejor den cada seconde 
-di bo hermosa existencia 
-cu nos gran ser superior 
-guianos
-den e caminda 
-pa e luz
-di berdad
-cu
-lo wordo skirbi
-e biaha aki 
-na 
-mi idioma 
-stima 
-papiamento 
+
+geermanjohan@gmail.com
 
 
 
