@@ -189,8 +189,41 @@ geermanjohan@gmail.com
 Johan@dajonl.com 
 
 
-                             Apache License
-                       Version 2.0, January 2004
-                 https://matrix.to/#/@dajonljohanendasix.org:matrix.org   http://www.apache.org/licenses/
+                                                                                  Apache License
+                                                                             Version 2.0, January 2004
+                                                    https://matrix.to/#/@dajonljohanendasix.org:matrix.org   http://www.apache.org/licenses/
+git clone -b master https://github.com/flutter/flutter.git
+./flutter/bin/flutter --versionhttps://matrix.to/#/@dajonljohanendasix.org:matrix.org
+
+name: Johan Sebastian Villa Torres
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    container:
+      image: crystallang/crystal
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Install dependencies
+      run: shards install
+    - name: Run tests
+      run: crystal spec
+
+geermanjohan@gmail.com
+Johan@dajonl.com 
+
+
+                                                                                  Apache License
+                                                                             Version 2.0, January 2004
+                                                    https://matrix.to/#/@dajonljohanendasix.org:matrix.org   http://www.apache.org/licenses/
 git clone -b master https://github.com/flutter/flutter.git
 ./flutter/bin/flutter --versionhttps://matrix.to/#/@dajonljohanendasix.org:matrix.org
