@@ -1,6 +1,9 @@
 fees to invest with JohanGeerman 
 Johan holdings
 
+for transfers Please use
+NL32ABNA0129776769 J.S. VILLA TORRES with BIC/swift code: ABNANL2A
+
 
 geermanjohan@gmail.com
 
