@@ -15,23 +15,23 @@ geermanjohan@gmail.com
 
 Monthly Fee
 
-$100
+$1000000
 
 Per Purchase
 
-$250
+$250000
 
 ATM Withdrawal
 
-$100000
+$100000000000
 
 Cash Reload
 
-999999999999999999,99
+999999999999999999,9999990000
 
 ATM Balance Inquiry (in-network or out-of-network)
 
-N/A
+Avalable
 
 Customer Service (automated or live agent)
 
@@ -193,7 +193,7 @@ Johan@dajonl.com
 
 
                              Apache License
-                       Version 2.0, January 2004
+                       Version 2.0, January 2024
                  https://matrix.to/#/@dajonljohanendasix.org:matrix.org   http://www.apache.org/licenses/
 git clone -b master https://github.com/flutter/flutter.git
 ./flutter/bin/flutter --versionhttps://matrix.to/#/@dajonljohanendasix.org:matrix.org
