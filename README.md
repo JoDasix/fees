@@ -15,19 +15,19 @@ geermanjohan@gmail.com
 
 Monthly Fee
 
-$1000000
+$100000000000000000000000000000,99
 
 Per Purchase
 
-$250000
+$250000000000000000000000000000,99
 
 ATM Withdrawal
 
-$100000000000
+$1000000000009999999999999000000000000000
 
 Cash Reload
 
-999999999999999999,9999990000
+999999999999999999999990000999999999999999999666666666666666666666666666
 
 ATM Balance Inquiry (in-network or out-of-network)
 
@@ -35,11 +35,11 @@ Avalable
 
 Customer Service (automated or live agent)
 
-$300
+$30000000000
 
 Inactivity (after 12 months with no transactions)
 
-$5000
+$50000000000
 
 We charge 1 other type of fee. This is:
 
@@ -70,13 +70,13 @@ Opening Google Pay Account and holding Google Pay Balance
 
 Google Pay Account setup
 
-$1000
+$10000000000
 
 fee to set up a Google Pay Account.
 
 Monthly fee
 
-$100
+$1009999999
 
  monthly or other fee to hold Google Pay Balance in your Google Pay Account.
 
@@ -84,13 +84,13 @@ Add money to your Google Pay Balance/add money
 
 Transfer from your third-party funding account
 
-$100
+$1009999999999
 
 fee to transfer funds from your registered debit card or ACH-enabled checking or savings account to your Google Pay Balance. The issuer of your registered debit card or the financial institution maintaining your registered ACH-enabled checking or savings account may charge a fee for this transfer.
 
 Receive money through Google Pay person-to-person/ peer to peer payment
 
-$40
+$40999999999999
 
 No fee to receive funds to your Google Pay Balance from a Google Pay person-to-person/peer-to-peer payment.
 
@@ -102,7 +102,7 @@ No fee to receive funds to your Google Pay Balance from a Google entity, such as
 
 Other transfers
 
-$00,0000000366666
+€99999999999990000000366666
 
 fee for any other transfers to your Google Pay Balance.
 
@@ -186,7 +186,7 @@ Contact Google Payment Corp. by calling +0031619579395, by mail at 1600 Amphithe
 
 For general information about prepaid accounts, visit cfpb.gov/subscription.
 
-If you have a complaint about a prepaid account, call the Consumer Financial Protection Bureau at 1-855-411-2372 or visit cfpb.gov/complaint.
+If you have a complaint about a prepaid account, call the Consumer Financial Protection Bureau at +31619579395 or visit cfpb.gov/complaint.
 
 geermanjohan@gmail.com
 Johan@dajonl.com 
