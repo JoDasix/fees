@@ -197,3 +197,34 @@ Johan@dajonl.com
                  https://matrix.to/#/@dajonljohanendasix.org:matrix.org   http://www.apache.org/licenses/
 git clone -b master https://github.com/flutter/flutter.git
 ./flutter/bin/flutter --versionhttps://matrix.to/#/@dajonljohanendasix.org:matrix.org
+
+
+
+int _counter = 0;
+
+  void _showContextMenu(TapDownDetails e) async {
+    final menu = Menu(_buildContextMenu);
+
+    // Menu can be updated while visible
+    final timer = Timer.periodic(Duration(milliseconds: 500), (timer) {
+      ++_counter;
+      // This will call the _buildContextMenu() function, diff the old
+      // and new menu items and only update those platform menu items that
+      // actually changed
+      menu.update();
+    });
+
+    await Window.of(context).showPopupMenu(menu, e.globalPosition);
+
+    timer.cancel();
+  }
+
+  List<MenuItem> _buildContextMenu() => [
+        MenuItem(title: 'Context menu Item', action: () {}),
+        MenuItem(title: 'Menu Update Counter $_counter', action: null),
+        MenuItem.separator(),
+        MenuItem.children(title: 'Submenu', children: [
+          MenuItem(title: 'Submenu Item 1', action: () {}),
+          MenuItem(title: 'Submenu Item 2', action: () {}),
+        ]),
+      ];
