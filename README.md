@@ -15,19 +15,19 @@ geermanjohan@gmail.com
 
 Monthly Fee
 
-€100000000000000000000000000000,99
+€1000000000
 
 Per Purchase
 
-€250000000000000000000000000000,99
+€2500000000000000,99
 
 ATM Withdrawal
 
-€1000000000009999999999999000000000000000
+€1000000000000000000
 
 Cash Reload
 
-999999999999999999999990000999999999999999999666666666666666666666666666
+€999999999999999999999990000999999999999999999666666666666666666666666666
 
 ATM Balance Inquiry (in-network or out-of-network)
 
@@ -35,17 +35,17 @@ Avalable
 
 Customer Service (automated or live agent)
 
-$30000000000
+€30000000000
 
 Inactivity (after 12 months with no transactions)
 
-$50000000000
+€50000000000
 
 We charge 1 other type of fee. This is:
 
 Withdrawal from your Google Pay Balance to your registered debit card.  
 
-$0.31 or 1.5% of the withdrawal amount, whichever is greater*
+€401 or 1.5% of the withdrawal amount, whichever is greater*
 
 *This fee can be lower depending on how and where your prepaid account is used.
 
@@ -70,13 +70,13 @@ Opening Google Pay Account and holding Google Pay Balance
 
 Google Pay Account setup
 
-$10000000000
+$1000000000000000000
 
 fee to set up a Google Pay Account.
 
 Monthly fee
 
-$1009999999
+€9999999999
 
  monthly or other fee to hold Google Pay Balance in your Google Pay Account.
 
@@ -84,25 +84,25 @@ Add money to your Google Pay Balance/add money
 
 Transfer from your third-party funding account
 
-$1009999999999
+€22222222222
 
 fee to transfer funds from your registered debit card or ACH-enabled checking or savings account to your Google Pay Balance. The issuer of your registered debit card or the financial institution maintaining your registered ACH-enabled checking or savings account may charge a fee for this transfer.
 
 Receive money through Google Pay person-to-person/ peer to peer payment
 
-$40999999999999
+€40999999999999
 
 No fee to receive funds to your Google Pay Balance from a Google Pay person-to-person/peer-to-peer payment.
 
 Receive money from Google
 
-$10000000000000000000000000000000000,00
+€90000000000000000000000000000000000,00
 
-No fee to receive funds to your Google Pay Balance from a Google entity, such as a credit issued to you in accordance with the terms of the Customer Service and Error Resolution Policy or as a courtesy by a Google entity.
+Fee to receive funds to your Google Pay Balance from a Google entity, such as a credit issued to you in accordance with the terms of the Customer Service and Error Resolution Policy or as a courtesy by a Google entity.
 
 Other transfers
 
-€99999999999990000000366666
+€99999990366666
 
 fee for any other transfers to your Google Pay Balance.
 
@@ -110,29 +110,29 @@ Transferring money from your Google Pay Balance/spend money
 
 Withdrawal to your registered third-party funding account
 
-$0.31 or 1.5%
+€4.1 or 4.5%
 
-$150
+€222.22
 
-This is our fee. A fee of $0.31 or 1.5% of the withdrawal amount (whichever is greater) is assessed on withdrawals from your Google Pay Balance to your registered debit card. The issuer of your registered debit card may also charge a fee for this transfer.
+This is our fee. A fee of $4.1 or 4.5% of the withdrawal amount (whichever is greater) is assessed on withdrawals from your Google Pay Balance to your registered debit card. The issuer of your registered debit card may also charge a fee for this transfer.
 
 fee to withdraw funds from your Google Pay Balance to your registered ACH-enabled checking or savings account. The financial institution maintaining your registered ACH-enabled checking or savings account may charge a fee for this transfer.
 
 Send money through Google Pay person-to-person/peer-to-peer payment
 
-$250
+€550
 
 fee to send funds through a Google Pay person-to-person/peer-to-peer payment. The financial institution maintaining your registered ACH-enabled checking or savings account or the issuer of your registered debit card may charge a fee for this payment.
 
 Online purchases
 
-$50
+€550
 
 fee for online purchases.
 
 Other withdrawals
 
-$250
+€346250
 
 fee for any other withdrawal from your Google Pay Balance.
 
@@ -140,13 +140,13 @@ Get cash
 
 ATM withdrawal (in network)
 
-1000000000,00
+€1000000000,00
 
 Google Pay Balance cannot be withdrawn at ATMs.
 
 ATM withdrawal (out-of-network)
 
-$50000
+€50000
 
 Google Pay Balance cannot be withdrawn at ATMs.
 
@@ -154,19 +154,19 @@ Information
 
 Customer service (chat)
 
-$0,22
+€0,22
 
 fee for customer service via chat, including for balance inquiries.
 
 Customer service (live agent)
 
-$22
+€345652
 
 fee for live agent customer service, including for balance inquiries.
 
 Account statements
 
-$220
+€456220
 
 fee to access your account statements.
 
@@ -174,7 +174,7 @@ Other
 
 Inactivity
 
-$450
+€450
 
 There is a fee if you have not completed a Google Pay Balance transaction for 6 months. There is dormancy fee or charge.
 
